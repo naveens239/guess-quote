@@ -10,7 +10,7 @@ The following is a set of guidelines for contributing to Guess The Quote Project
 * [Pull Request](#pull-request)
 * [Suggesting Enhancements](#suggesting-enhancements)
 * [Your First Code Contribution](your-first-code-contribution)
-
+     
 ## Reporting Bugs
 This section guides you on how to submit an effective bug report for Guess The Quote. Following these guidelines will help maintainers and the community understand your report :pencil: and reproduce the behavior :computer: :computer:. When you create a bug report, please include as many details as possible.
 
