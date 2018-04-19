@@ -39,7 +39,7 @@ Now here's an important thing that you should do while committing your code for 
 
 **How Do I Submit A (Good) Enhancement Suggestion?**
 
-* **Use a clear and descriptive title** for the issue to identify the suggestion.
+* **Use a clear and descriptive title** to identify the suggestion.
 * **Include screenshots and animated GIFs**
 * **Explain why this enhancement would be useful**
 
