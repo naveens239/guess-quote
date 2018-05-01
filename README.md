@@ -42,7 +42,7 @@ It is a fun quiz game which is a  progressive web app(PWA). Built during Collabo
  ```bash
     git clone https://github.com/<your-github-username>/guess-quote.git
     cd guess-quote
-    npm i
+    npm run setup
     npm start
  ```
   - Open any browser and goto http://localhost:3000  
@@ -105,4 +105,12 @@ But merges are complicated. Please do read official documentation on merge. Unde
 ## Contributing Guidelines
 
 Contributions are always welcome.
+We are using **Git Branching Model** for production and development purposes.You can read more about it hear [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/).Basically what this means is
+ - `develop` : This branch reflects a state with the latest delivered _DEVELOPMENT_ changes for the next release
+ - `master` : This branch reflects the _PRODUCTION READY STATE_
+
 For more details regarding contributing refer [CONTRIBUTING.md](https://github.com/twishasaraiya/GuessTheQuote/blob/master/CONTRIBUTING.md)
+
+## License
+
+[MIT License](LICENSE)
